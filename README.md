@@ -497,7 +497,7 @@ This project is licensed under the MIT License.
 ```
 MIT License
 
-Copyright (c) 2025 SUJAL-7
+Copyright (c) 2025 Nandish
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -525,19 +525,5 @@ SOFTWARE.
 - Express.js for backend framework
 - React for frontend framework
 - Tailwind CSS for styling
-
-## 📞 Support
-
-For questions, issues, or feature requests:
-
-- **GitHub Issues**: [Open an issue](https://github.com/SUJAL-7/secure-file-transfer/issues)
-
----
-
-**Built with ❤️ by SUJAL-7**
-
-**⭐ Star this repo if you find it useful!**
-
-**🔐 Remember: Your security is in your hands. Keep your private keys safe!**"# secure-file-transfer" 
-#   s e c u r e - f i l e - t r a n s f e r  
+ 
  
